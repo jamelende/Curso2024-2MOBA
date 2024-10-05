@@ -20,7 +20,7 @@ output: html_document
 
 
 
-<center>  ![](https://dl.dropboxusercontent.com/scl/fi/bd9enhm6lewzhsocqv4mb/Univalle.png?rlkey=srnbg55jrrytee6ad2bja9tcn&dl=1){width=15%} </center>
+<center>  ![](https://dl.dropboxusercontent.com/scl/fi/bd9enhm6lewzhsocqv4mb/Univalle.png?rlkey=srnbg55jrrytee6ad2bja9tcn&raw=1){width=15%} </center>
 
 <center> <h1> Curso de Extensión: Lunes y Miércoles:  6-10 p.m., Octubre 7  a Noviembre 4 de 2024</h1> </center>
 
