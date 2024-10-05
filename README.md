@@ -31,7 +31,7 @@ output: html_document
 
 ## Información General
 
-<center> ![](https://dl.dropboxusercontent.com/s/ktywzszo4ct554m/GnnDrugs.PNG?dl=1){width=30%} </center>
+<center> ![](https://dl.dropboxusercontent.com/s/ktywzszo4ct554m/GnnDrugs.PNG?raw=1){width=30%} </center>
 
 
 <br></br>
@@ -57,7 +57,7 @@ La modelación basada en agentes (MBA) es una herramienta crucial en las ciencia
 
 
 <br></br>
-<center> ![](https://dl.dropboxusercontent.com/s/og3turchwul5by3/Semana2.png?dl=1){width=15%} </center>
+<center> ![](https://dl.dropboxusercontent.com/s/og3turchwul5by3/Semana2.png?raw=1){width=15%} </center>
 
  <br></br>
  
@@ -73,7 +73,7 @@ La modelación basada en agentes (MBA) es una herramienta crucial en las ciencia
 #### [M.Sc., Alfonso Meléndez Profesor Titular,Escuela Col de Ingeniería](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/HojaDeVida.html)
 
 <br></br>
-<center> ![](https://dl.dropboxusercontent.com/s/m35v28xmaqowmnc/ClimateChange.jpg?dl=1){width=30%} </center>
+<center> ![](https://dl.dropboxusercontent.com/s/m35v28xmaqowmnc/ClimateChange.jpg?raw=1){width=30%} </center>
  <br></br>
  
  
@@ -416,6 +416,9 @@ INCLUIR CENTOLA</td>
 
 <br></br><br></br><br></br><br><br>
 <br></br><br></br><br></br>
+
+
+
 
 
 
