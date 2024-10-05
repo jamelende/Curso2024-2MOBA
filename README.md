@@ -20,7 +20,7 @@ output: html_document
 
 
 
-<center>  ![](https://dl.dropboxusercontent.com/scl/fi/p5ll2q3jiwci7c1879bbg/LogoUnal.PNG?rlkey=y9pwx183m5cfrq5kmknrmvd70){width=15%} </center>
+<center>  ![](https://www.dropbox.com/scl/fi/p5ll2q3jiwci7c1879bbg/LogoUnal.PNG?rlkey=y9pwx183m5cfrq5kmknrmvd70&raw=1){width=15%} </center>
 
 <center> <h1> Curso de Extensión: Lunes y Miércoles:  6-10 p.m., Octubre 7  a Noviembre 4 de 2024</h1> </center>
 
