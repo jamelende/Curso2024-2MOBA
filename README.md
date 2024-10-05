@@ -1,13 +1,3 @@
----
-title: ''
-output:
-  html_document:
-    theme: cerulean
-    toc: no
-  pdf_document:
-    toc: no
-date: ''
----
 
 <style type="text/css">
 .main-container {
@@ -17,14 +7,10 @@ date: ''
 }
 </style>
 
----
-title: <center>  Modelación Basada en Agentes </center>
-output: html_document
----
 
 
 
-<center>  ![](https://www.dropbox.com/scl/fi/bd9enhm6lewzhsocqv4mb/Univalle.png?rlkey=srnbg55jrrytee6ad2bja9tcn&dl=1){width=15%} </center>
+<center>  ![](https://www.dl.dropboxusercontent.com/scl/fi/bd9enhm6lewzhsocqv4mb/Univalle.png?rlkey=srnbg55jrrytee6ad2bja9tcn&dl=1){width=15%} </center>
 
 <center> <h1> Curso de Extensión: Lunes y Miércoles:  6-10 p.m., Octubre 7  a Noviembre 4 de 2024</h1> </center>
 
@@ -35,7 +21,7 @@ output: html_document
 
 ## Información General
 
-<center> ![](https://www.dropbox.com/s/ktywzszo4ct554m/GnnDrugs.PNG?dl=1){width=30%} </center>
+<center> ![](https://www.dl.dropboxusercontent.com/s/ktywzszo4ct554m/GnnDrugs.PNG?dl=1){width=30%} </center>
 
 
 <br></br>
@@ -61,7 +47,7 @@ La modelación basada en agentes (MBA) es una herramienta crucial en las ciencia
 
 
 <br></br>
-<center> ![](https://www.dropbox.com/s/og3turchwul5by3/Semana2.png?dl=1){width=15%} </center>
+<center> ![](https://www.dl.dropboxusercontent.com/s/og3turchwul5by3/Semana2.png?dl=1){width=15%} </center>
 
  <br></br>
  
@@ -77,7 +63,7 @@ La modelación basada en agentes (MBA) es una herramienta crucial en las ciencia
 #### [M.Sc., Alfonso Meléndez Profesor Titular,Escuela Col de Ingeniería](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/HojaDeVida.html)
 
 <br></br>
-<center> ![](https://www.dropbox.com/s/m35v28xmaqowmnc/ClimateChange.jpg?dl=1){width=30%} </center>
+<center> ![](https://www.dl.dropboxusercontent.com/s/m35v28xmaqowmnc/ClimateChange.jpg?dl=1){width=30%} </center>
  <br></br>
  
  
@@ -313,7 +299,7 @@ INCLUIR CENTOLA</td>
 ## Libros
 
 
-<center>  ![](https://www.dropbox.com/scl/fi/lgknffqxy6r6y1n4zrjzs/2.-LibroChat.png?rlkey=4w81mxfhwgk6vpffai5bqj2gt&dl=1){width=40%}  </center>
+<center>  ![](https://www.dl.dropboxusercontent.com/scl/fi/lgknffqxy6r6y1n4zrjzs/2.-LibroChat.png?rlkey=4w81mxfhwgk6vpffai5bqj2gt&dl=1){width=40%}  </center>
 
 [William Rand Uri Wilensky: An Introduction to Agent Based Modelling](https://www.dropbox.com/scl/fi/lumj07jemtqsfe0li3he1/WilenskyRandLibroNetLogo.pdf?rlkey=waliot0xz1hy7bz457vly3uzt&dl=1)<br>
 
@@ -345,7 +331,7 @@ INCLUIR CENTOLA</td>
 
 ## Artículos
 
-<center> ![](https://www.dropbox.com/scl/fi/nsuq5vpn6i9abafwrw82d/3.-Articulos-Chatgpt.png?rlkey=iupt997vc456f4qas5gqtqsyq&dl=1){width=40%} </center>
+<center> ![](https://www.dl.dropboxusercontent.com/scl/fi/nsuq5vpn6i9abafwrw82d/3.-Articulos-Chatgpt.png?rlkey=iupt997vc456f4qas5gqtqsyq&dl=1){width=40%} </center>
 
  [OpenAi Gpt](https://openai.com/index/gpt-4-research/)
 
@@ -353,7 +339,7 @@ INCLUIR CENTOLA</td>
 ## Cursos en Línea
 
 
-<center>  ![](https://www.dropbox.com/scl/fi/wmo5a4k00xvzecnlq09lt/4.-Curso-ChatGpt.png?rlkey=ter3spaj318o4qghq4ui40pty&dl=1){width=40%}  </center>
+<center>  ![](https://www.dl.dropboxusercontent.com/scl/fi/wmo5a4k00xvzecnlq09lt/4.-Curso-ChatGpt.png?rlkey=ter3spaj318o4qghq4ui40pty&dl=1){width=40%}  </center>
 
 
 
@@ -375,7 +361,7 @@ INCLUIR CENTOLA</td>
 ## Videos
 
 
-<center>  ![](https://www.dropbox.com/scl/fi/ma38u1l9na3o87ypo41py/5.-Videos-ChatGpt.png?rlkey=6ddj6k3492aczfpgnm4es57j6&dl=1){width=40%}  </center>
+<center>  ![](https://www.dl.dropboxusercontent.com/scl/fi/ma38u1l9na3o87ypo41py/5.-Videos-ChatGpt.png?rlkey=6ddj6k3492aczfpgnm4es57j6&dl=1){width=40%}  </center>
 
 
 
@@ -393,7 +379,7 @@ INCLUIR CENTOLA</td>
 ## Enlaces de Internet
 
 
-<center> ![](https://www.dropbox.com/scl/fi/gcizljzg3urw96qh9bkj2/6.-Enlaces-ChatGpt.png?rlkey=qrfxif60396l13a4fzqzuitc5&dl=1){width=50%} </center>
+<center> ![](https://www.dl.dropboxusercontent.com/scl/fi/gcizljzg3urw96qh9bkj2/6.-Enlaces-ChatGpt.png?rlkey=qrfxif60396l13a4fzqzuitc5&dl=1){width=50%} </center>
 
 
 ### Actividades Interactivas
@@ -420,6 +406,10 @@ INCLUIR CENTOLA</td>
 
 <br></br><br></br><br></br><br><br>
 <br></br><br></br><br></br>
+
+
+
+
 
 
 
